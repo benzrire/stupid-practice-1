@@ -1,5 +1,3 @@
-# stupid-practice-1
-
 ## Project setup
 ```
 npm install
